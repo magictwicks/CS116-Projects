@@ -1,0 +1,8 @@
+{
+  "include":[
+    ".",
+  ],
+  "typeCheckingMode": "off",
+  "reportGeneralTypeIssues": false,
+  "strictParameterNoneValue": false,
+}
